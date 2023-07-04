@@ -1,0 +1,81 @@
+{
+  "pensamento": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que vc veio",
+      "autoria": "Lucas",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev Alura",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "id": 3,
+      "conteudo": "Angular é o melhor",
+      "autoria": "Lucas",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 4,
+      "conteudo": "Minha propriedade é decorada com @Input().",
+      "autoria": "Componente filho.",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "id": 5,
+      "conteudo": "Passo informações para o componente filho.",
+      "autoria": "Componente pai.",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 6,
+      "conteudo": "Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Diuretics paradis num copo é motivis de denguis. Atirei o pau no gatis, per gatis num morreus. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Sapien in monti palavris qui num significa nadis i pareci latim.",
+      "autoria": "Desconhecido.",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "conteudo": "Pensamento de teste",
+      "autoria": "dev teste",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 7
+    },
+    {
+      "conteudo": "Continue a codar",
+      "autoria": "Dory programadora",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 8
+    },
+    {
+      "conteudo": "Que a força esteja com vc",
+      "autoria": "Mestre Yoda!",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 9
+    },
+    {
+      "conteudo": "Com grandes poderes, vem grandes responsabilidades.",
+      "autoria": "tio ben",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 10
+    },
+    {
+      "conteudo": "miguelzinho meu amor",
+      "autoria": "lucas",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 11
+    }
+  ]
+}
